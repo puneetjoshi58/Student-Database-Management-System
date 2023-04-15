@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: com.springdatabase.restapi.RestapiApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.517 s <<< FAILURE! - in com.springdatabase.restapi.RestapiApplicationTests
+com.springdatabase.restapi.RestapiApplicationTests  Time elapsed: 0.513 s  <<< ERROR!
+java.lang.IllegalStateException: Unable to find a @SpringBootConfiguration, you need to use @ContextConfiguration or @SpringBootTest(classes=...) with your test
+
