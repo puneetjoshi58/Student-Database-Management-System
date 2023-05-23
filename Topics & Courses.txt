@@ -21,6 +21,8 @@ Topics:
 
 Course:
 
+JAVA:
+
 {
     "id":"java-streams",
     "name":"Java Streams",
@@ -42,6 +44,8 @@ Course:
     
 }
 
+JAVAEE
+
 {
     "id":"javaee-streams",
     "name":"Javaee Streams",
@@ -62,6 +66,8 @@ Course:
     "description":"Javaee Backend Description"
     
 }
+
+JAVA SCRIPT 
 
 {
     "id":"java-script-streams",
